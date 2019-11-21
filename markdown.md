@@ -186,7 +186,7 @@ Despues encontramos unos iconos y despues de ello estan las fotos de el producto
             </div>
     </section>
 ```
-6. un piede de pagina.
+6.  pie de pagina de el sitio web.
 ```
 <footer class="page-footer indigo valign-wrapper center">
         <div class="container">
